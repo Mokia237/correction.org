@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+height: 600px; /* Set a fixed height */
+overflow: hidden;
+
+}
+.left-side{
+    width: 50%;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    padding: 80PX;
+}
+.MOKIA-LITICIA-NYAVEN{
+    color: darkcyan;
+}
+button{
+    background-color: darkcyan;
+    font-size: medium;
+}
+.right-side{
+    width: 50%;
+}
+p{
+    line-height:0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+}
+h4{
+    line-height: 0%;
+}
+h1{
+    line-height: 80%;
+}
